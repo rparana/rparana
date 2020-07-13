@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-rparana-211F1F?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rparana)](https://github.com/rparana)
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelparana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelparana/)](https://www.linkedin.com/in/rafaelparana/)
+[![Yahoo Badge](https://img.shields.io/badge/-paranafael-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:paranafael@yahoo.com.br)](mailto:paranafael@yahoo.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-paranafael-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paranafael@gmail.com)](mailto:danieltsutomu@gmail.com)
 
 ## Hi 👋,
