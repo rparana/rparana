@@ -9,9 +9,9 @@
 
 I'm Rafael Paraná, I'm a Full Stack developer who is passionate about JavaScript and C#.
 
-- 🔭 I’m currently working on JavaScript and VUE.js
-- 🌱 I’m currently learning Flutter and of course JS and Vue improvments
+- 🔭 I’m currently working on NodeJs and VUE.js
+- 🌱 I’m currently learning Clean Architecture and TDD improvment
 - 💬 Ask me about: tech, anime.
-- ⚡ Technologies: PHP, Java, Node, Vue, Docker, Devops, React, React-Native
+- ⚡ Technologies: PHP, Java, C#, Node, Vue, Docker, Devops, Mongo, ElasticSearch
 
 "No, life is not a permanent and immobile party, it is a constant and rude evolution."
