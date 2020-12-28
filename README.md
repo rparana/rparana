@@ -43,57 +43,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" alt="Rock emoji" />
-
-<img align="right" width="40%" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47g74xo4qj6729zv94h3sqzxd7dd652ho5kldeys12&rid=giphy.gif" alt="Basecamp sky" />
-
-### Welcome to my page!
-<p>
-  I'm <b>Rafael Paraná</b>, Tech Lead and Fullstack developer who is passionate about <b>Javascript</b> and <b>VUE.Js</b>.
-</p>
-
-<br/>
-
-### Talking about Personal Stuffs
-
-- 👨‍💻 I'm Tech Lead at MedPrev;
-
-- 🔭 I’m currently working on NodeJs and VUE.js;
-
-- 🌱 I’m currently learning Clean Architecture and TDD improvment; 
-
-- 💬 Ask me about anything, I am happy to help;
-
-### Where to find me:
-
-<a href="https://www.linkedin.com/in/rafaelparana/">
-  <code><img alt="Rafael's linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:paranafael@yahoo.com.br">
-  <code><img alt="Rafael's e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/255/255336.svg" /></code>
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5541998796809">
-  <code><img alt="Rafael's whatsapp" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383269.svg" /></code>
-</a>
-
-<br/><br/>
-
-## My Development Stack
-
-**Application and Data**
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="Flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="Gulp"/></code>
