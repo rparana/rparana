@@ -1,9 +1,8 @@
 # Rafael Paraná 👨‍💻
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" alt="Rock emoji" />
+# Hello, welcome to my page! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1471045870/910/rock.gif?1471045870" alt="Rock emoji" />
 
 <img align="right" width="40%" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47g74xo4qj6729zv94h3sqzxd7dd652ho5kldeys12&rid=giphy.gif" alt="Basecamp sky" />
 
-### Welcome to my page!
 <p>
   I'm <b>Rafael Paraná</b>, Tech Lead and Fullstack developer who is passionate about <b>Javascript</b> and <b>VUE.Js</b>.
 </p>
