@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨‍💻 I'm Tech Lead at MedPrev;
+- 👨‍💻 I'm Tech Lead and Full Stack developer;
 
 - 🔭 I’m currently working on NodeJs and VUE.js;
 
