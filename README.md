@@ -13,9 +13,9 @@
 
 - 👨‍💻 I'm Tech Lead and Full Stack developer;
 
-- 🔭 I’m currently working on NodeJs and VUE.js;
+- 🔭 I’m currently working on NodeJs with typescript and VUE.js;
 
-- 🌱 I’m currently learning Clean Architecture and TDD improvment; 
+- 🌱 I’m currently coding with Clean Architecture and TDD; 
 
 - 💬 Ask me about anything, I am happy to help;
 
