@@ -22,15 +22,15 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/rafaelparana/">
-  <code><img alt="Rafael's linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="Rafael's linkedin" width="28" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" /></code>
 </a>
 
 <a href="mailto:paranafael@yahoo.com.br">
-  <code><img alt="Rafael's e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/255/255336.svg" /></code>
+  <code><img alt="Rafael's e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/3669/3669386.png" /></code>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5541998796809">
-  <code><img alt="Rafael's whatsapp" width="32" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383269.svg" /></code>
+<a href="https://wa.me/+5541998796809">
+  <code><img alt="Rafael's whatsapp" width="32" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" /></code>
 </a>
 
 <br/><br/>
@@ -70,15 +70,17 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="Aws"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"/></code>
 <code><img height="32" src="https://vercel.com/api/www/avatar/cace97d353e0a685a68ca33bed3dee7ca0cbf011?s=100" alt="GCloud"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes"/></code>
+<code><img height="32" src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" alt="Kafka"/></code>
 
 **Business Tools**
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111615.svg" alt="Slack"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/slack-3771070-3147687.png" alt="Slack"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 <code><img height="32" src="https://cdn-images-1.medium.com/fit/c/72/72/1*c2x4lhBVMM87YA1bhuhf7g.png" alt="Figma"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/732/732244.svg" alt="Sketch"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/sketch-2752074-2284891.png" alt="Sketch"/></code>
 <code><img height="32" src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/xd.svg" alt="Adobe Xd"/></code>
 
 <br/>
@@ -94,9 +96,7 @@
 <br/>
 
 <p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/rparana/rparana" alt="Visitors badge" />
-   </a>
+   <img src="https://visitor-badge.glitch.me/badge?page_id=rparana.visitor-badge" alt="Visitors badge" />
 </p>
 
 "No, life is not a permanent and immobile party, it is a constant and rude evolution."
